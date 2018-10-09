@@ -12,7 +12,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Keycloak backend is added with preliminary OAuth2 support
 - Globus OpenId Connect backend
 - Discord OAuth2 backend
-- ELIXIR AAI backend
+- ELIXIR OpenId Connect backend
 
 ### Changed
 - GitHub backend now uses `state` parameter instead of `redirect_state`
